@@ -1,0 +1,4 @@
+<mod displayName="Description Limit Break" unique="DescriptionLimitBreak" description="Removes text limit from descriptions and tags in the editor." installerSystemVersion="1.0.1.2" hasCustomInstaller="false" isExperimental="false" dllsBuild="2.5.280">
+<prerequisite>DescriptionLimitBreak.dll</prerequisite>
+<remove>DescriptionLimitBreak.dll</remove>
+</mod>
